@@ -39,6 +39,7 @@
       <change afterPath="$PROJECT_DIR$/../Final/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Final/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaTest2020/.idea/JavaTest2020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
